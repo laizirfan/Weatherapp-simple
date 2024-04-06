@@ -1,0 +1,15 @@
+body{
+    overflow-y: hidden
+}
+
+
+#cont{
+
+    width: 500px;
+    height: 420px;
+   background-color: rgb(255, 255, 255,.1);
+   margin-left: 65px;
+   margin-bottom: 30px;
+   backdrop-filter: blur(2px);
+
+}
